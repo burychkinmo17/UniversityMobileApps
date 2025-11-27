@@ -1,2 +1,2 @@
-# UniversityMobileApps
-Laboratory work repository for Mobile Applications (Python + Kivy)
+# Лабораторная №1. Калькулятор
+Реализован с использованием python, kivy, а также нервов, пота и большого количества попыток сборки.
