@@ -1,19 +1,16 @@
-# Лабораторная работа №2 — Converter
+# converter
 
-Мобильное приложение на Flutter для конвертации величин.
+A new Flutter project.
 
-## Реализовано
-- 5 категорий величин
-- 3+ единицы измерения в каждой
-- Ввод значений через кнопочную клавиатуру
-- Смена единиц (swap)
-- Обработка некорректных операций
-- Android-приложение
+## Getting Started
 
-## Технологии
-- Flutter
-- Dart
-- Android SDK
+This project is a starting point for a Flutter application.
 
-## APK
-Готовый APK находится в папке `apk/`.
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
